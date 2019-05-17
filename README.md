@@ -5,5 +5,7 @@ This was created using Visual Studio 2017, this is simply a repository to hold t
 
 To view the code that goes into creating the User Interface and arranging how the code interacts with the user, please download the zip file here: https://drive.google.com/open?id=1r_-x_i9w2V-ChRRwY8FXINk_ISyeQ_cV 
 
-[Working as of 17/05/2019]
 # Known issues with Visual Studio Versions
+[Working as of 17/05/2019]
+
+Sometimes it will not run correctly due to version differences between machines, if that happens simply delete .vs file and then rebuild it by opening in visual studio again.
